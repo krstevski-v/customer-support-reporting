@@ -1,0 +1,15 @@
+version: 2
+
+sources:
+  - name: support_raw
+    description: Raw support data loaded from CSV files using Python.
+    schema: main
+    tables:
+      - name: raw_agents
+        description: Synthetic agent CSV loaded by load_raw.py; one row per agent.
+      - name: raw_customers
+        description: Synthetic customer CSV loaded by load_raw.py; one row per customer.
+      - name: raw_service_commitments
+        description: Synthetic commitment CSV; one rule per service tier and priority pair.
+      - name: raw_tickets
+        description: Unmodified synthetic ticket CSV, including intentional duplicate and invalid records.

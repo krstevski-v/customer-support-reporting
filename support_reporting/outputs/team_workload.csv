@@ -1,0 +1,5 @@
+team,total_tickets,resolved_tickets,open_tickets,resolved_within_commitment_tickets,open_overdue_tickets,avg_resolution_hours,commitment_achievement_pct
+Account,303,266.0,37.0,164.0,36.0,30.14,61.65
+Billing,624,558.0,66.0,368.0,65.0,27.75,65.95
+Technical,973,836.0,137.0,404.0,133.0,38.59,48.33
+Unassigned,80,0.0,80.0,0.0,78.0,,

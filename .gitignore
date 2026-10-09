@@ -1,0 +1,40 @@
+# Python environments and caches
+venv/
+.venv/
+env/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Local databases (keep synthetic input and example report CSVs)
+*.duckdb
+*.duckdb.wal
+*.duckdb.tmp/
+
+# dbt build artifacts and installed packages
+target/
+logs/
+dbt_packages/
+dbt_internal_packages/
+.user.yml
+profiles.yml
+
+# Local verification, secrets, and machine settings
+.verification/
+.env
+.env.*
+!.env.example
+.aws/
+.codex/
+.vscode/
+.idea/
+
+# Operating-system clutter
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Local task notes and learning reference answers
+/Support_Reporting_Codex_Handoff.md
+/DATA_GUIDE.md
+/reference_checks/

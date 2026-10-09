@@ -1,0 +1,321 @@
+ticket_id,customer_name,service_tier,agent_name,team,priority,created_at,open_age_hours,resolution_target_hours,commitment_status
+T0457,Customer 109,Premium,,Unassigned,High,2026-01-01 06:43:42,2153.2716666666665,6,Open overdue
+T0531,Customer 033,Standard,,Unassigned,Urgent,2026-01-01 07:29:15,2152.5125,8,Open overdue
+T0365,Customer 015,Standard,Agent 003,Technical,Low,2026-01-01 11:40:48,2148.32,96,Open overdue
+T0336,Customer 100,Premium,,Unassigned,Medium,2026-01-01 13:22:58,2146.617222222222,12,Open overdue
+T0424,Customer 079,Plus,Agent 007,Billing,Medium,2026-01-01 21:11:09,2138.8141666666666,24,Open overdue
+T0318,Customer 069,Plus,Agent 004,Technical,Medium,2026-01-02 04:38:30,2131.358333333333,24,Open overdue
+T0501,Customer 060,Standard,Agent 002,Technical,Medium,2026-01-03 05:27:05,2106.5486111111113,48,Open overdue
+T0445,Customer 069,Plus,,Unassigned,Medium,2026-01-03 07:12:51,2104.7858333333334,24,Open overdue
+T0522,Customer 045,Standard,,Unassigned,Medium,2026-01-03 11:21:56,2100.6344444444444,48,Open overdue
+T0208,Customer 044,Standard,Agent 008,Billing,Medium,2026-01-04 01:55:51,2086.0691666666667,48,Open overdue
+T0145,Customer 096,Plus,Agent 004,Technical,High,2026-01-04 14:48:10,2073.197222222222,12,Open overdue
+T0112,Customer 077,Plus,Agent 004,Technical,High,2026-01-04 19:56:21,2068.0608333333334,12,Open overdue
+T0019,Customer 057,Standard,,Unassigned,High,2026-01-04 23:29:02,2064.516111111111,24,Open overdue
+T0502,Customer 023,Standard,Agent 007,Billing,Medium,2026-01-05 05:09:08,2058.847777777778,48,Open overdue
+T0094,Customer 053,Standard,Agent 005,Billing,Low,2026-01-05 12:02:06,2051.965,96,Open overdue
+T0118,Customer 078,Plus,,Unassigned,Medium,2026-01-05 15:00:48,2048.9866666666667,24,Open overdue
+T0241,Customer 116,Premium,Agent 009,Account,Medium,2026-01-05 16:47:39,2047.2058333333334,12,Open overdue
+T0504,Customer 089,Plus,Agent 001,Technical,Medium,2026-01-05 21:28:49,2042.5197222222223,24,Open overdue
+T0088,Customer 080,Plus,Agent 001,Technical,Urgent,2026-01-05 23:57:04,2040.048888888889,4,Open overdue
+T0533,Customer 108,Premium,,Unassigned,High,2026-01-06 06:54:00,2033.1,6,Open overdue
+T0523,Customer 095,Plus,Agent 012,Account,Low,2026-01-06 09:59:03,2030.0158333333334,72,Open overdue
+T0150,Customer 093,Plus,Agent 001,Technical,High,2026-01-06 16:14:35,2023.7569444444443,12,Open overdue
+T0524,Customer 103,Premium,Agent 008,Billing,High,2026-01-06 16:42:21,2023.2941666666666,6,Open overdue
+T0461,Customer 089,Plus,Agent 011,Account,Low,2026-01-07 03:33:28,2012.4422222222222,72,Open overdue
+T0421,Customer 101,Premium,Agent 004,Technical,Medium,2026-01-07 13:35:00,2002.4166666666667,12,Open overdue
+T0496,Customer 036,Standard,Agent 004,Technical,High,2026-01-07 22:10:35,1993.8236111111112,24,Open overdue
+T0548,Customer 106,Premium,,Unassigned,Low,2026-01-08 01:46:13,1990.2297222222223,48,Open overdue
+T0077,Customer 069,Plus,,Unassigned,Medium,2026-01-09 10:49:36,1957.1733333333334,24,Open overdue
+T0335,Customer 113,Premium,Agent 008,Billing,Low,2026-01-09 21:36:21,1946.3941666666667,48,Open overdue
+T0354,Customer 101,Premium,,Unassigned,Medium,2026-01-10 18:38:44,1925.3544444444444,12,Open overdue
+T0404,Customer 084,Plus,,Unassigned,Medium,2026-01-11 02:25:18,1917.5783333333334,24,Open overdue
+T0246,Customer 107,Premium,Agent 005,Billing,Medium,2026-01-11 09:30:38,1910.4894444444444,12,Open overdue
+T0068,Customer 035,Standard,,Unassigned,High,2026-01-11 19:16:00,1900.7333333333333,24,Open overdue
+T0086,Customer 051,Standard,Agent 001,Technical,High,2026-01-11 21:43:33,1898.2741666666666,24,Open overdue
+T0171,Customer 005,Standard,Agent 011,Account,Medium,2026-01-11 23:12:36,1896.79,48,Open overdue
+T0483,Customer 093,Plus,,Unassigned,Low,2026-01-12 02:13:13,1893.7797222222223,72,Open overdue
+T0306,Customer 105,Premium,Agent 004,Technical,Urgent,2026-01-13 01:35:22,1870.4105555555554,2,Open overdue
+T0330,Customer 076,Plus,Agent 001,Technical,High,2026-01-13 12:35:31,1859.4080555555556,12,Open overdue
+T0314,Customer 012,Standard,Agent 006,Billing,High,2026-01-13 16:24:41,1855.588611111111,24,Open overdue
+T0223,Customer 007,Standard,Agent 007,Billing,Low,2026-01-14 15:50:30,1832.1583333333333,96,Open overdue
+T0406,Customer 087,Plus,Agent 004,Technical,Medium,2026-01-15 00:11:21,1823.8108333333332,24,Open overdue
+T0381,Customer 003,Standard,Agent 003,Technical,Low,2026-01-16 10:03:17,1789.9452777777778,96,Open overdue
+T0033,Customer 104,Premium,Agent 003,Technical,High,2026-01-16 12:11:26,1787.8094444444444,6,Open overdue
+T0542,Customer 077,Plus,,Unassigned,High,2026-01-16 17:21:36,1782.64,12,Open overdue
+T0014,Customer 051,Standard,,Unassigned,Medium,2026-01-16 20:02:47,1779.953611111111,48,Open overdue
+T0373,Customer 111,Premium,Agent 007,Billing,High,2026-01-16 23:02:30,1776.9583333333333,6,Open overdue
+T0196,Customer 054,Standard,Agent 002,Technical,Medium,2026-01-17 02:28:35,1773.5236111111112,48,Open overdue
+T0300,Customer 070,Plus,Agent 001,Technical,Medium,2026-01-17 10:04:41,1765.9219444444445,24,Open overdue
+T0236,Customer 037,Standard,Agent 003,Technical,Medium,2026-01-17 11:30:19,1764.4947222222222,48,Open overdue
+T0227,Customer 087,Plus,,Unassigned,Medium,2026-01-17 12:24:10,1763.5972222222222,24,Open overdue
+T0425,Customer 029,Standard,Agent 004,Technical,Medium,2026-01-17 16:13:53,1759.768611111111,48,Open overdue
+T0006,Customer 081,Plus,Agent 001,Technical,Medium,2026-01-17 22:47:57,1753.2008333333333,24,Open overdue
+T0299,Customer 054,Standard,,Unassigned,Medium,2026-01-18 19:01:42,1732.9716666666666,48,Open overdue
+T0327,Customer 015,Standard,Agent 003,Technical,Medium,2026-01-18 22:13:28,1729.7755555555555,48,Open overdue
+T0499,Customer 065,Plus,,Unassigned,High,2026-01-19 01:50:38,1726.1561111111112,12,Open overdue
+T0506,Customer 059,Standard,Agent 009,Account,High,2026-01-19 04:26:26,1723.5594444444444,24,Open overdue
+T0455,Customer 079,Plus,Agent 010,Account,Medium,2026-01-20 16:55:33,1687.0741666666668,24,Open overdue
+T0505,Customer 059,Standard,,Unassigned,Low,2026-01-20 20:28:56,1683.5177777777778,96,Open overdue
+T0027,Customer 069,Plus,Agent 009,Account,Medium,2026-01-21 07:04:39,1672.9225,24,Open overdue
+T0436,Customer 057,Standard,,Unassigned,Medium,2026-01-21 19:22:05,1660.6319444444443,48,Open overdue
+T0234,Customer 111,Premium,Agent 003,Technical,High,2026-01-22 12:31:51,1643.4691666666668,6,Open overdue
+T0346,Customer 013,Standard,Agent 008,Billing,Medium,2026-01-22 12:58:30,1643.025,48,Open overdue
+T0084,Customer 115,Premium,,Unassigned,High,2026-01-22 14:55:44,1641.0711111111111,6,Open overdue
+T0357,Customer 098,Premium,,Unassigned,High,2026-01-22 20:00:24,1635.9933333333333,6,Open overdue
+T0491,Customer 025,Standard,,Unassigned,Medium,2026-01-23 07:30:15,1624.4958333333334,48,Open overdue
+T0218,Customer 002,Standard,Agent 002,Technical,Medium,2026-01-23 14:13:46,1617.7705555555556,48,Open overdue
+T0527,Customer 058,Standard,,Unassigned,Urgent,2026-01-24 10:30:12,1597.4966666666667,8,Open overdue
+T0403,Customer 005,Standard,Agent 009,Account,Low,2026-01-24 14:34:01,1593.4330555555555,96,Open overdue
+T0164,Customer 024,Standard,Agent 006,Billing,Urgent,2026-01-25 14:04:26,1569.9261111111111,8,Open overdue
+T0550,Customer 100,Premium,,Unassigned,High,2026-01-25 15:14:00,1568.7666666666667,6,Open overdue
+T0035,Customer 103,Premium,Agent 004,Technical,Medium,2026-01-26 12:47:48,1547.2033333333334,12,Open overdue
+T0181,Customer 080,Plus,Agent 001,Technical,Low,2026-01-27 03:01:21,1532.9775,72,Open overdue
+T0525,Customer 042,Standard,,Unassigned,Urgent,2026-01-27 16:27:28,1519.5422222222223,8,Open overdue
+T0096,Customer 024,Standard,,Unassigned,Medium,2026-01-27 18:05:38,1517.9061111111112,48,Open overdue
+T0235,Customer 083,Plus,Agent 004,Technical,Low,2026-01-27 21:46:37,1514.2230555555554,72,Open overdue
+T0156,Customer 027,Standard,Agent 003,Technical,Low,2026-01-28 03:01:27,1508.9758333333334,96,Open overdue
+T0257,Customer 116,Premium,Agent 006,Billing,Medium,2026-01-28 03:46:29,1508.2252777777778,12,Open overdue
+T0079,Customer 062,Plus,,Unassigned,Medium,2026-01-28 04:18:05,1507.6986111111112,24,Open overdue
+T0217,Customer 076,Plus,Agent 008,Billing,High,2026-01-28 16:38:51,1495.3525,12,Open overdue
+T0492,Customer 078,Plus,Agent 005,Billing,Medium,2026-01-28 20:51:53,1491.1352777777777,24,Open overdue
+T0268,Customer 035,Standard,,Unassigned,High,2026-01-29 21:19:24,1466.6766666666667,24,Open overdue
+T0387,Customer 079,Plus,Agent 003,Technical,Medium,2026-01-29 22:22:37,1465.6230555555555,24,Open overdue
+T0189,Customer 087,Plus,Agent 012,Account,Low,2026-01-30 01:13:07,1462.7813888888888,72,Open overdue
+T0341,Customer 054,Standard,Agent 002,Technical,Medium,2026-01-30 11:29:14,1452.5127777777777,48,Open overdue
+T0263,Customer 068,Plus,Agent 012,Account,Medium,2026-01-30 17:24:54,1446.585,24,Open overdue
+T0062,Customer 038,Standard,Agent 004,Technical,High,2026-01-30 19:50:39,1444.1558333333332,24,Open overdue
+T0409,Customer 087,Plus,Agent 009,Account,Urgent,2026-01-30 23:47:35,1440.2069444444444,4,Open overdue
+T0326,Customer 016,Standard,Agent 004,Technical,High,2026-01-31 02:48:02,1437.1994444444445,24,Open overdue
+T0305,Customer 113,Premium,Agent 001,Technical,Medium,2026-01-31 14:51:53,1425.1352777777777,12,Open overdue
+T0075,Customer 070,Plus,Agent 005,Billing,Medium,2026-01-31 15:25:59,1424.5669444444445,24,Open overdue
+T0183,Customer 037,Standard,Agent 003,Technical,Medium,2026-01-31 17:43:55,1422.2680555555555,48,Open overdue
+T0211,Customer 034,Standard,,Unassigned,Medium,2026-01-31 18:03:55,1421.9347222222223,48,Open overdue
+T0759,Customer 051,Standard,Agent 002,Technical,High,2026-02-02 00:45:55,1391.2347222222222,24,Open overdue
+T0729,Customer 103,Premium,Agent 004,Technical,High,2026-02-02 22:15:57,1369.7341666666666,6,Open overdue
+T1096,Customer 028,Standard,Agent 004,Technical,Urgent,2026-02-02 23:31:03,1368.4825,8,Open overdue
+T0742,Customer 049,Standard,Agent 004,Technical,Medium,2026-02-02 23:57:53,1368.0352777777778,48,Open overdue
+T1164,Customer 032,Standard,,Unassigned,Medium,2026-02-03 04:08:45,1363.8541666666667,48,Open overdue
+T0797,Customer 008,Standard,Agent 003,Technical,Low,2026-02-03 04:54:22,1363.0938888888888,96,Open overdue
+T1002,Customer 007,Standard,Agent 001,Technical,Low,2026-02-03 08:14:21,1359.7608333333333,96,Open overdue
+T1147,Customer 075,Plus,,Unassigned,Urgent,2026-02-03 09:15:31,1358.7413888888889,4,Open overdue
+T0924,Customer 112,Premium,,Unassigned,High,2026-02-03 10:08:11,1357.8636111111111,6,Open overdue
+T0567,Customer 033,Standard,Agent 010,Account,Low,2026-02-03 18:21:11,1349.6469444444444,96,Open overdue
+T1148,Customer 097,Premium,Agent 011,Account,Medium,2026-02-04 05:18:53,1338.6852777777779,12,Open overdue
+T1113,Customer 064,Plus,Agent 004,Technical,High,2026-02-04 16:56:47,1327.0536111111112,12,Open overdue
+T0555,Customer 061,Plus,,Unassigned,High,2026-02-07 04:23:41,1267.6052777777777,12,Open overdue
+T0841,Customer 043,Standard,Agent 003,Technical,High,2026-02-07 19:49:01,1252.1830555555555,24,Open overdue
+T0972,Customer 052,Standard,Agent 011,Account,Medium,2026-02-07 19:59:47,1252.003611111111,48,Open overdue
+T0798,Customer 009,Standard,Agent 003,Technical,Low,2026-02-07 20:15:26,1251.7427777777777,96,Open overdue
+T1007,Customer 117,Premium,Agent 004,Technical,High,2026-02-07 22:45:42,1249.2383333333332,6,Open overdue
+T1152,Customer 077,Plus,Agent 002,Technical,Medium,2026-02-08 02:10:13,1245.8297222222222,24,Open overdue
+T1100,Customer 062,Plus,Agent 004,Technical,Urgent,2026-02-08 08:19:20,1239.6777777777777,4,Open overdue
+T0793,Customer 080,Plus,Agent 001,Technical,Low,2026-02-08 09:29:51,1238.5025,72,Open overdue
+T1017,Customer 011,Standard,Agent 002,Technical,High,2026-02-08 16:22:37,1231.6230555555555,24,Open overdue
+T0996,Customer 020,Standard,,Unassigned,Medium,2026-02-09 10:33:44,1213.4377777777777,48,Open overdue
+T1023,Customer 102,Premium,Agent 007,Billing,Urgent,2026-02-10 06:28:25,1193.526388888889,2,Open overdue
+T0773,Customer 092,Plus,Agent 008,Billing,High,2026-02-11 01:29:03,1174.5158333333334,12,Open overdue
+T0794,Customer 035,Standard,Agent 010,Account,Urgent,2026-02-11 05:27:38,1170.5394444444444,8,Open overdue
+T0826,Customer 093,Plus,Agent 012,Account,Urgent,2026-02-11 21:23:57,1154.6008333333334,4,Open overdue
+T1019,Customer 029,Standard,Agent 002,Technical,High,2026-02-11 23:09:34,1152.8405555555555,24,Open overdue
+T0874,Customer 002,Standard,Agent 005,Billing,High,2026-02-12 00:35:13,1151.4130555555555,24,Open overdue
+T1063,Customer 009,Standard,Agent 005,Billing,High,2026-02-12 01:18:08,1150.6977777777777,24,Open overdue
+T0668,Customer 118,Premium,,Unassigned,Medium,2026-02-12 04:22:29,1147.6252777777777,12,Open overdue
+T0984,Customer 059,Standard,Agent 003,Technical,Medium,2026-02-12 07:52:55,1144.1180555555557,48,Open overdue
+T1048,Customer 090,Plus,,Unassigned,Low,2026-02-12 10:22:50,1141.6194444444445,72,Open overdue
+T0886,Customer 022,Standard,Agent 001,Technical,Medium,2026-02-13 01:00:19,1126.9947222222222,48,Open overdue
+T1094,Customer 118,Premium,Agent 007,Billing,Low,2026-02-13 07:26:45,1120.5541666666666,48,Open overdue
+T0829,Customer 093,Plus,,Unassigned,Low,2026-02-14 08:10:05,1095.8319444444444,72,Open overdue
+T0888,Customer 074,Plus,Agent 002,Technical,High,2026-02-14 08:41:10,1095.3138888888889,12,Open overdue
+T0552,Customer 094,Plus,,Unassigned,Medium,2026-02-14 12:31:39,1091.4725,24,Open overdue
+T1104,Customer 049,Standard,Agent 001,Technical,High,2026-02-14 15:06:01,1088.8997222222222,24,Open overdue
+T0607,Customer 050,Standard,,Unassigned,Low,2026-02-14 21:26:19,1082.5613888888888,96,Open overdue
+T0748,Customer 035,Standard,Agent 003,Technical,Medium,2026-02-15 01:15:16,1078.7455555555555,48,Open overdue
+T0640,Customer 109,Premium,Agent 004,Technical,Urgent,2026-02-15 01:57:35,1078.0402777777779,2,Open overdue
+T0954,Customer 096,Plus,Agent 001,Technical,Medium,2026-02-15 08:54:55,1071.0847222222221,24,Open overdue
+T0840,Customer 050,Standard,Agent 011,Account,Low,2026-02-15 14:46:11,1065.2302777777777,96,Open overdue
+T1014,Customer 095,Plus,,Unassigned,High,2026-02-15 15:56:54,1064.0516666666667,12,Open overdue
+T0809,Customer 042,Standard,Agent 003,Technical,Low,2026-02-15 18:13:44,1061.7711111111112,96,Open overdue
+T0603,Customer 019,Standard,Agent 002,Technical,Low,2026-02-16 01:16:38,1054.7227777777778,96,Open overdue
+T1136,Customer 074,Plus,,Unassigned,Medium,2026-02-16 06:10:37,1049.8230555555556,24,Open overdue
+T0732,Customer 051,Standard,,Unassigned,Medium,2026-02-16 17:51:09,1038.1475,48,Open overdue
+T1177,Customer 077,Plus,Agent 008,Billing,Medium,2026-02-18 04:23:53,1003.6019444444445,24,Open overdue
+T0556,Customer 009,Standard,Agent 010,Account,High,2026-02-18 04:45:12,1003.2466666666667,24,Open overdue
+T0684,Customer 039,Standard,Agent 001,Technical,Urgent,2026-02-18 07:47:21,1000.2108333333333,8,Open overdue
+T0994,Customer 030,Standard,Agent 011,Account,Low,2026-02-19 04:51:37,979.1397222222222,96,Open overdue
+T0917,Customer 077,Plus,Agent 008,Billing,High,2026-02-19 08:31:23,975.4769444444445,12,Open overdue
+T1151,Customer 052,Standard,Agent 012,Account,Urgent,2026-02-19 16:26:42,967.555,8,Open overdue
+T0842,Customer 090,Plus,Agent 010,Account,High,2026-02-19 22:20:07,961.6647222222222,12,Open overdue
+T0923,Customer 101,Premium,,Unassigned,High,2026-02-19 22:39:26,961.3427777777778,6,Open overdue
+T0672,Customer 080,Plus,,Unassigned,Medium,2026-02-20 00:04:47,959.9202777777778,24,Open overdue
+T0694,Customer 038,Standard,Agent 001,Technical,Low,2026-02-20 03:06:22,956.8938888888889,96,Open overdue
+T0921,Customer 059,Standard,Agent 003,Technical,Low,2026-02-20 13:41:58,946.3005555555555,96,Open overdue
+T1061,Customer 071,Plus,Agent 006,Billing,Low,2026-02-20 14:10:15,945.8291666666667,72,Open overdue
+T0595,Customer 053,Standard,Agent 008,Billing,Low,2026-02-21 05:20:35,930.6569444444444,96,Open overdue
+T1194,Customer 064,Plus,Agent 003,Technical,Low,2026-02-21 12:42:37,923.2897222222222,72,Open overdue
+T0770,Customer 031,Standard,Agent 007,Billing,Medium,2026-02-21 18:16:29,917.7252777777778,48,Open overdue
+T1005,Customer 013,Standard,Agent 003,Technical,Medium,2026-02-21 19:52:07,916.1313888888889,48,Open overdue
+T0741,Customer 089,Plus,Agent 008,Billing,Medium,2026-02-22 02:22:35,909.6236111111111,24,Open overdue
+T0800,Customer 029,Standard,Agent 006,Billing,Medium,2026-02-22 02:24:11,909.5969444444445,48,Open overdue
+T1054,Customer 060,Standard,Agent 001,Technical,Low,2026-02-22 03:07:01,908.8830555555555,96,Open overdue
+T1106,Customer 018,Standard,Agent 005,Billing,Medium,2026-02-22 03:31:03,908.4825,48,Open overdue
+T1182,Customer 050,Standard,Agent 011,Account,Medium,2026-02-22 05:43:22,906.2772222222222,48,Open overdue
+T0571,Customer 080,Plus,Agent 011,Account,Low,2026-02-22 15:41:50,896.3027777777778,72,Open overdue
+T0889,Customer 107,Premium,Agent 002,Technical,Medium,2026-02-22 19:34:54,892.4183333333333,12,Open overdue
+T1102,Customer 047,Standard,Agent 011,Account,High,2026-02-22 22:20:50,889.6527777777778,24,Open overdue
+T0592,Customer 079,Plus,Agent 007,Billing,Low,2026-02-22 23:10:30,888.825,72,Open overdue
+T1199,Customer 067,Plus,Agent 006,Billing,Medium,2026-02-23 16:24:24,871.5933333333334,24,Open overdue
+T0937,Customer 031,Standard,Agent 008,Billing,High,2026-02-23 22:42:24,865.2933333333333,24,Open overdue
+T1114,Customer 104,Premium,Agent 004,Technical,High,2026-02-24 14:49:19,849.1780555555556,6,Open overdue
+T0577,Customer 033,Standard,Agent 002,Technical,Low,2026-02-25 04:43:16,835.2788888888889,96,Open overdue
+T0682,Customer 056,Standard,,Unassigned,Medium,2026-02-25 05:14:50,834.7527777777777,48,Open overdue
+T1174,Customer 041,Standard,,Unassigned,Medium,2026-02-25 10:21:54,829.635,48,Open overdue
+T0693,Customer 090,Plus,Agent 003,Technical,Low,2026-02-25 10:50:19,829.1613888888888,72,Open overdue
+T1039,Customer 005,Standard,Agent 006,Billing,Urgent,2026-02-26 07:45:33,808.2408333333333,8,Open overdue
+T1178,Customer 004,Standard,Agent 005,Billing,High,2026-02-26 08:16:26,807.7261111111111,24,Open overdue
+T0575,Customer 034,Standard,Agent 001,Technical,Medium,2026-02-26 19:02:14,796.9627777777778,48,Open overdue
+T0920,Customer 096,Plus,Agent 008,Billing,High,2026-02-26 19:08:33,796.8575,12,Open overdue
+T0796,Customer 072,Plus,,Unassigned,Medium,2026-02-26 21:07:22,794.8772222222223,24,Open overdue
+T0932,Customer 082,Plus,,Unassigned,Medium,2026-02-27 03:54:14,788.0961111111111,24,Open overdue
+T1006,Customer 051,Standard,Agent 009,Account,High,2026-02-27 05:39:18,786.345,24,Open overdue
+T0904,Customer 094,Plus,Agent 001,Technical,Low,2026-02-27 08:31:55,783.4680555555556,72,Open overdue
+T0667,Customer 081,Plus,Agent 001,Technical,Low,2026-02-27 12:15:23,779.7436111111111,72,Open overdue
+T0702,Customer 010,Standard,Agent 003,Technical,High,2026-02-27 13:37:23,778.3769444444445,24,Open overdue
+T1125,Customer 025,Standard,Agent 003,Technical,High,2026-02-27 16:46:57,775.2175,24,Open overdue
+T1025,Customer 102,Premium,,Unassigned,High,2026-02-27 18:40:25,773.3263888888889,6,Open overdue
+T0641,Customer 074,Plus,Agent 008,Billing,Medium,2026-02-28 21:49:05,746.1819444444444,24,Open overdue
+T1602,Customer 075,Plus,Agent 004,Technical,Medium,2026-03-01 09:24:24,734.5933333333334,24,Open overdue
+T1614,Customer 059,Standard,Agent 008,Billing,Medium,2026-03-01 12:50:32,731.1577777777778,48,Open overdue
+T1310,Customer 040,Standard,,Unassigned,Medium,2026-03-01 20:05:29,723.9086111111111,48,Open overdue
+T1447,Customer 090,Plus,,Unassigned,High,2026-03-02 02:55:09,717.0808333333333,12,Open overdue
+T1206,Customer 070,Plus,,Unassigned,Low,2026-03-02 19:09:36,700.84,72,Open overdue
+T1257,Customer 108,Premium,Agent 004,Technical,Medium,2026-03-02 23:02:26,696.9594444444444,12,Open overdue
+T1448,Customer 046,Standard,Agent 003,Technical,High,2026-03-03 09:39:08,686.3477777777778,24,Open overdue
+T1936,Customer 110,Premium,Agent 002,Technical,Urgent,2026-03-03 11:12:19,684.7947222222223,2,Open overdue
+T1921,Customer 103,Premium,Agent 003,Technical,Medium,2026-03-03 12:11:52,683.8022222222222,12,Open overdue
+T1770,Customer 117,Premium,Agent 002,Technical,Low,2026-03-03 14:48:07,681.1980555555556,48,Open overdue
+T1714,Customer 062,Plus,,Unassigned,Low,2026-03-04 10:38:01,661.3663888888889,72,Open overdue
+T1940,Customer 002,Standard,,Unassigned,Medium,2026-03-04 15:01:18,656.9783333333334,48,Open overdue
+T1288,Customer 115,Premium,Agent 001,Technical,Medium,2026-03-04 18:39:29,653.3419444444445,12,Open overdue
+T1634,Customer 059,Standard,Agent 002,Technical,Medium,2026-03-05 03:36:14,644.3961111111112,48,Open overdue
+T1680,Customer 047,Standard,Agent 001,Technical,Medium,2026-03-05 04:15:26,643.7427777777777,48,Open overdue
+T1843,Customer 084,Plus,,Unassigned,Low,2026-03-05 12:04:14,635.9294444444445,72,Open overdue
+T1395,Customer 086,Plus,,Unassigned,Urgent,2026-03-05 16:26:41,631.5552777777777,4,Open overdue
+T1631,Customer 098,Premium,Agent 006,Billing,Medium,2026-03-05 23:09:23,624.8436111111112,12,Open overdue
+T1823,Customer 110,Premium,Agent 006,Billing,High,2026-03-06 07:49:15,616.1791666666667,6,Open overdue
+T1591,Customer 093,Plus,Agent 003,Technical,Urgent,2026-03-06 18:44:32,605.2577777777777,4,Open overdue
+T1682,Customer 104,Premium,Agent 001,Technical,Medium,2026-03-06 23:15:03,600.7491666666666,12,Open overdue
+T1490,Customer 112,Premium,Agent 002,Technical,Low,2026-03-07 00:23:12,599.6133333333333,48,Open overdue
+T1379,Customer 055,Standard,Agent 008,Billing,High,2026-03-07 01:08:57,598.8508333333333,24,Open overdue
+T1938,Customer 037,Standard,Agent 006,Billing,Medium,2026-03-07 18:21:21,581.6441666666667,48,Open overdue
+T1929,Customer 111,Premium,Agent 002,Technical,High,2026-03-07 19:59:04,580.0155555555556,6,Open overdue
+T1488,Customer 118,Premium,Agent 004,Technical,Medium,2026-03-07 22:30:35,577.4902777777778,12,Open overdue
+T1230,Customer 095,Plus,Agent 012,Account,High,2026-03-08 08:00:49,567.9863888888889,12,Open overdue
+T1854,Customer 017,Standard,Agent 008,Billing,Medium,2026-03-08 13:17:16,562.7122222222222,48,Open overdue
+T1825,Customer 032,Standard,,Unassigned,Low,2026-03-08 17:37:09,558.3808333333334,96,Open overdue
+T1845,Customer 049,Standard,Agent 004,Technical,Medium,2026-03-08 19:10:39,556.8225,48,Open overdue
+T1933,Customer 043,Standard,Agent 005,Billing,High,2026-03-08 20:31:44,555.4711111111111,24,Open overdue
+T1348,Customer 107,Premium,Agent 010,Account,Urgent,2026-03-09 09:02:10,542.9638888888888,2,Open overdue
+T1957,Customer 050,Standard,Agent 008,Billing,High,2026-03-09 19:37:20,532.3777777777777,24,Open overdue
+T1424,Customer 033,Standard,Agent 011,Account,Urgent,2026-03-10 01:26:21,526.5608333333333,8,Open overdue
+T1642,Customer 074,Plus,Agent 006,Billing,High,2026-03-10 05:02:32,522.9577777777778,12,Open overdue
+T1672,Customer 054,Standard,Agent 005,Billing,Medium,2026-03-10 07:10:00,520.8333333333334,48,Open overdue
+T1347,Customer 035,Standard,Agent 002,Technical,Low,2026-03-10 11:19:28,516.6755555555555,96,Open overdue
+T1712,Customer 009,Standard,Agent 001,Technical,Low,2026-03-10 15:56:31,512.0580555555556,96,Open overdue
+T1498,Customer 072,Plus,,Unassigned,Medium,2026-03-10 16:26:44,511.55444444444447,24,Open overdue
+T1204,Customer 036,Standard,Agent 012,Account,Medium,2026-03-10 22:28:52,505.5188888888889,48,Open overdue
+T1444,Customer 033,Standard,Agent 001,Technical,High,2026-03-11 10:08:03,493.86583333333334,24,Open overdue
+T1708,Customer 028,Standard,Agent 008,Billing,High,2026-03-11 11:17:29,492.7086111111111,24,Open overdue
+T1593,Customer 063,Plus,Agent 001,Technical,Medium,2026-03-11 20:32:10,483.4638888888889,24,Open overdue
+T1641,Customer 087,Plus,,Unassigned,High,2026-03-11 23:01:16,480.9788888888889,12,Open overdue
+T1573,Customer 070,Plus,Agent 004,Technical,Low,2026-03-12 01:12:17,478.79527777777776,72,Open overdue
+T1596,Customer 002,Standard,Agent 001,Technical,High,2026-03-12 05:37:04,474.3822222222222,24,Open overdue
+T1355,Customer 099,Premium,Agent 008,Billing,Urgent,2026-03-12 15:11:15,464.8125,2,Open overdue
+T1301,Customer 075,Plus,,Unassigned,High,2026-03-13 02:43:20,453.27777777777777,12,Open overdue
+T1771,Customer 003,Standard,,Unassigned,Urgent,2026-03-13 03:30:42,452.48833333333334,8,Open overdue
+T1744,Customer 107,Premium,Agent 004,Technical,Medium,2026-03-13 09:08:43,446.8547222222222,12,Open overdue
+T1450,Customer 017,Standard,Agent 004,Technical,Low,2026-03-13 13:01:13,442.9797222222222,96,Open overdue
+T1260,Customer 087,Plus,Agent 009,Account,High,2026-03-13 19:44:26,436.25944444444445,12,Open overdue
+T1919,Customer 077,Plus,Agent 004,Technical,High,2026-03-14 05:07:15,426.87916666666666,12,Open overdue
+T1588,Customer 043,Standard,Agent 007,Billing,High,2026-03-14 11:54:29,420.09194444444444,24,Open overdue
+T1715,Customer 001,Standard,Agent 006,Billing,Medium,2026-03-14 12:43:42,419.27166666666665,48,Open overdue
+T1207,Customer 034,Standard,Agent 003,Technical,Low,2026-03-14 17:21:36,414.64,96,Open overdue
+T1514,Customer 080,Plus,,Unassigned,Medium,2026-03-15 13:18:34,394.69055555555553,24,Open overdue
+T1848,Customer 046,Standard,Agent 009,Account,High,2026-03-15 20:33:15,387.4458333333333,24,Open overdue
+T1228,Customer 016,Standard,Agent 003,Technical,Medium,2026-03-16 21:29:13,362.5130555555556,48,Open overdue
+T1818,Customer 032,Standard,Agent 006,Billing,Medium,2026-03-16 22:31:08,361.4811111111111,48,Open overdue
+T1722,Customer 028,Standard,Agent 003,Technical,Low,2026-03-17 00:28:53,359.5186111111111,96,Open overdue
+T1410,Customer 009,Standard,Agent 001,Technical,Medium,2026-03-17 00:37:28,359.37555555555554,48,Open overdue
+T1807,Customer 051,Standard,,Unassigned,Medium,2026-03-17 04:58:40,355.02222222222224,48,Open overdue
+T1763,Customer 043,Standard,Agent 001,Technical,Medium,2026-03-17 07:06:04,352.8988888888889,48,Open overdue
+T1276,Customer 040,Standard,Agent 007,Billing,Medium,2026-03-17 08:26:58,351.55055555555555,48,Open overdue
+T1218,Customer 082,Plus,Agent 008,Billing,High,2026-03-17 13:38:07,346.3647222222222,12,Open overdue
+T1746,Customer 074,Plus,Agent 008,Billing,High,2026-03-17 18:11:41,341.8052777777778,12,Open overdue
+T1831,Customer 105,Premium,Agent 011,Account,Urgent,2026-03-18 16:12:21,319.7941666666667,2,Open overdue
+T1644,Customer 080,Plus,,Unassigned,Low,2026-03-18 16:16:06,319.7316666666667,72,Open overdue
+T1400,Customer 081,Plus,Agent 003,Technical,Medium,2026-03-18 17:40:27,318.3258333333333,24,Open overdue
+T1718,Customer 062,Plus,Agent 004,Technical,Medium,2026-03-18 18:27:05,317.5486111111111,24,Open overdue
+T1774,Customer 057,Standard,Agent 002,Technical,High,2026-03-18 22:31:47,313.47027777777777,24,Open overdue
+T1778,Customer 002,Standard,Agent 003,Technical,Medium,2026-03-19 04:31:50,307.46944444444443,48,Open overdue
+T1376,Customer 110,Premium,Agent 002,Technical,Low,2026-03-19 10:36:31,301.3913888888889,48,Open overdue
+T1231,Customer 062,Plus,Agent 003,Technical,High,2026-03-20 00:16:43,287.7213888888889,12,Open overdue
+T1670,Customer 034,Standard,Agent 002,Technical,High,2026-03-20 08:00:25,279.99305555555554,24,Open overdue
+T1622,Customer 120,Premium,Agent 002,Technical,Urgent,2026-03-20 09:11:22,278.81055555555554,2,Open overdue
+T1711,Customer 009,Standard,Agent 001,Technical,Low,2026-03-20 10:05:53,277.90194444444444,96,Open overdue
+T1844,Customer 068,Plus,Agent 002,Technical,High,2026-03-20 13:26:03,274.56583333333333,12,Open overdue
+T1941,Customer 035,Standard,Agent 002,Technical,Medium,2026-03-21 05:34:27,258.42583333333334,48,Open overdue
+T1917,Customer 039,Standard,,Unassigned,Medium,2026-03-21 08:04:30,255.925,48,Open overdue
+T1210,Customer 020,Standard,Agent 004,Technical,High,2026-03-21 08:55:56,255.0677777777778,24,Open overdue
+T1841,Customer 040,Standard,Agent 004,Technical,Low,2026-03-21 09:07:05,254.88194444444446,96,Open overdue
+T1869,Customer 081,Plus,Agent 003,Technical,Urgent,2026-03-21 16:41:40,247.30555555555554,4,Open overdue
+T1615,Customer 077,Plus,Agent 001,Technical,High,2026-03-21 20:50:50,243.15277777777777,12,Open overdue
+T1429,Customer 028,Standard,,Unassigned,Low,2026-03-21 23:19:13,240.6797222222222,96,Open overdue
+T1555,Customer 046,Standard,Agent 002,Technical,Medium,2026-03-22 03:39:40,236.3388888888889,48,Open overdue
+T1647,Customer 014,Standard,,Unassigned,High,2026-03-22 06:39:10,233.34722222222223,24,Open overdue
+T1562,Customer 041,Standard,,Unassigned,Medium,2026-03-22 14:40:13,225.32972222222222,48,Open overdue
+T1227,Customer 109,Premium,Agent 011,Account,Low,2026-03-22 14:42:22,225.2938888888889,48,Open overdue
+T1481,Customer 022,Standard,,Unassigned,Urgent,2026-03-22 16:48:41,223.1886111111111,8,Open overdue
+T1609,Customer 101,Premium,Agent 011,Account,High,2026-03-22 19:42:29,220.29194444444445,6,Open overdue
+T1282,Customer 001,Standard,Agent 001,Technical,Low,2026-03-22 20:20:28,219.6588888888889,96,Open overdue
+T1484,Customer 054,Standard,Agent 002,Technical,Low,2026-03-23 04:15:01,211.74972222222223,96,Open overdue
+T1890,Customer 082,Plus,Agent 009,Account,High,2026-03-23 10:00:29,205.99194444444444,12,Open overdue
+T1811,Customer 041,Standard,Agent 001,Technical,Low,2026-03-23 10:19:19,205.67805555555555,96,Open overdue
+T1656,Customer 038,Standard,Agent 002,Technical,High,2026-03-23 10:35:07,205.41472222222222,24,Open overdue
+T1328,Customer 095,Plus,Agent 007,Billing,Low,2026-03-23 15:45:32,200.2411111111111,72,Open overdue
+T1927,Customer 102,Premium,Agent 003,Technical,Medium,2026-03-23 16:49:39,199.1725,12,Open overdue
+T1463,Customer 109,Premium,Agent 004,Technical,Medium,2026-03-24 05:32:32,186.45777777777778,12,Open overdue
+T1661,Customer 068,Plus,Agent 002,Technical,High,2026-03-24 18:59:19,173.0113888888889,12,Open overdue
+T1512,Customer 109,Premium,,Unassigned,Medium,2026-03-25 02:49:27,165.17583333333334,12,Open overdue
+T1246,Customer 058,Standard,,Unassigned,Medium,2026-03-25 03:40:39,164.3225,48,Open overdue
+T1357,Customer 058,Standard,,Unassigned,Medium,2026-03-25 08:21:34,159.64055555555555,48,Open overdue
+T1221,Customer 100,Premium,Agent 002,Technical,Medium,2026-03-25 18:26:07,149.56472222222223,12,Open overdue
+T1216,Customer 084,Plus,Agent 002,Technical,Medium,2026-03-25 21:47:13,146.21305555555554,24,Open overdue
+T1268,Customer 009,Standard,Agent 008,Billing,High,2026-03-25 23:55:17,144.07861111111112,24,Open overdue
+T1688,Customer 101,Premium,,Unassigned,Medium,2026-03-26 01:05:22,142.91055555555556,12,Open overdue
+T1969,Customer 061,Plus,Agent 001,Technical,Low,2026-03-26 01:28:58,142.51722222222222,72,Open overdue
+T1409,Customer 028,Standard,Agent 008,Billing,High,2026-03-26 02:55:20,141.07777777777778,24,Open overdue
+T1333,Customer 016,Standard,,Unassigned,Medium,2026-03-26 20:44:34,123.25722222222223,48,Open overdue
+T1729,Customer 079,Plus,Agent 001,Technical,High,2026-03-27 06:48:17,113.19527777777778,12,Open overdue
+T1425,Customer 115,Premium,Agent 010,Account,Medium,2026-03-27 08:45:08,111.24777777777778,12,Open overdue
+T1916,Customer 006,Standard,Agent 006,Billing,High,2026-03-28 01:38:17,94.36194444444445,24,Open overdue
+T1436,Customer 011,Standard,,Unassigned,Medium,2026-03-28 08:10:25,87.82638888888889,48,Open overdue
+T1784,Customer 078,Plus,Agent 006,Billing,Low,2026-03-28 10:31:38,85.47277777777778,72,Open overdue
+T1508,Customer 102,Premium,Agent 008,Billing,High,2026-03-28 20:33:22,75.44388888888889,6,Open overdue
+T1723,Customer 040,Standard,Agent 001,Technical,Medium,2026-03-29 00:11:24,71.81,48,Open overdue
+T1413,Customer 082,Plus,Agent 001,Technical,Medium,2026-03-29 00:47:06,71.215,24,Open overdue
+T1748,Customer 048,Standard,Agent 006,Billing,Medium,2026-03-29 02:38:12,69.36333333333333,48,Open overdue
+T1402,Customer 026,Standard,Agent 008,Billing,Medium,2026-03-29 14:59:25,57.00972222222222,48,Open overdue
+T1630,Customer 050,Standard,Agent 004,Technical,High,2026-03-29 19:47:06,52.215,24,Open overdue
+T1885,Customer 073,Plus,Agent 007,Billing,Medium,2026-03-30 05:16:47,42.72027777777778,24,Open overdue
+T1835,Customer 021,Standard,Agent 001,Technical,High,2026-03-30 15:05:49,32.903055555555554,24,Open overdue
+T1747,Customer 094,Plus,Agent 006,Billing,Medium,2026-03-30 20:35:06,27.415,24,Open overdue
+T1681,Customer 099,Premium,,Unassigned,Medium,2026-03-30 21:21:37,26.639722222222222,12,Open overdue
+T1405,Customer 052,Standard,Agent 008,Billing,High,2026-03-30 22:09:03,25.849166666666665,24,Open overdue
+T1264,Customer 056,Standard,,Unassigned,Low,2026-03-28 00:06:23,95.89361111111111,96,Open within deadline
+T1675,Customer 027,Standard,Agent 004,Technical,Low,2026-03-28 16:03:00,79.95,96,Open within deadline
+T1775,Customer 054,Standard,Agent 001,Technical,Low,2026-03-28 20:16:43,75.7213888888889,96,Open within deadline
+T1730,Customer 065,Plus,Agent 006,Billing,Low,2026-03-29 02:21:31,69.64138888888888,72,Open within deadline
+T1351,Customer 001,Standard,Agent 002,Technical,Low,2026-03-29 22:05:22,49.910555555555554,96,Open within deadline
+T0002,Customer 001,Standard,,Unassigned,High,2026-03-31 00:00:00,24.0,24,Open within deadline
+T1486,Customer 014,Standard,Agent 011,Account,Medium,2026-03-31 04:18:43,19.688055555555554,48,Open within deadline
+T0003,Customer 001,Standard,Agent 002,Technical,High,2026-03-31 23:00:00,1.0,24,Open within deadline

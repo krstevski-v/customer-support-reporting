@@ -1,0 +1,66 @@
+version: 2
+
+models:
+  - name: int_ticket_validation
+    description: Exact ticket records after deduplication, with the first rejection reason or null when accepted.
+    columns:
+      - name: ticket_id
+        description: Ticket identifier; conflicting versions fail uniqueness rather than being chosen arbitrarily.
+        data_tests:
+          - not_null
+          - unique
+
+  - name: int_accepted_tickets
+    description: Valid ticket records, including unresolved and unassigned tickets.
+    columns:
+      - name: ticket_id
+        data_tests:
+          - not_null
+          - unique
+
+  - name: int_rejected_tickets
+    description: Invalid ticket records retained for audit with their rejection reasons.
+    columns:
+      - name: ticket_id
+        data_tests:
+          - not_null
+          - unique
+      - name: rejection_reason
+        description: First failed validation rule, retained with the original ticket fields.
+        data_tests:
+          - not_null
+  - name: int_ticket_detail
+    description: One accepted ticket enriched with customer, optional agent, team, and commitment rule.
+    columns:
+      - name: ticket_id
+        data_tests:
+          - not_null
+          - unique
+      - name: resolution_target_hours
+        description: Allowed elapsed hours for the customer's service tier and ticket priority.
+        data_tests:
+          - not_null
+  - name: int_ticket_metrics
+    description: Ticket status, elapsed durations, and commitment classification at the fixed UTC snapshot.
+    columns:
+      - name: ticket_id
+        data_tests:
+          - not_null
+          - unique
+      - name: ticket_status
+        data_tests:
+          - not_null
+          - accepted_values:
+              arguments:
+                values: ['Resolved', 'Unresolved']
+      - name: commitment_status
+        description: Outcome for resolved tickets or deadline state for open tickets; equality is within the target.
+        data_tests:
+          - not_null
+          - accepted_values:
+              arguments:
+                values: ['Resolved within commitment', 'Resolved late', 'Open within deadline', 'Open overdue']
+      - name: resolution_hours
+        description: Elapsed seconds divided by 3600 for resolved tickets; null for unresolved tickets.
+      - name: open_age_hours
+        description: Elapsed hours at 2026-04-01 00:00:00 UTC for unresolved tickets; null for resolved tickets.

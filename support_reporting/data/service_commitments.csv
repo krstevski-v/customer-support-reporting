@@ -1,0 +1,13 @@
+service_tier,priority,resolution_target_hours
+Standard,Low,96
+Standard,Medium,48
+Standard,High,24
+Standard,Urgent,8
+Plus,Low,72
+Plus,Medium,24
+Plus,High,12
+Plus,Urgent,4
+Premium,Low,48
+Premium,Medium,12
+Premium,High,6
+Premium,Urgent,2

@@ -1,0 +1,61 @@
+version: 2
+
+models:
+  - name: stg_tickets
+    description: All raw ticket rows with explicit text and timestamp types; defects and duplicates remain here.
+    columns:
+      - name: ticket_id
+        description: Source identifier; validation checks uniqueness after exact deduplication.
+      - name: created_at
+        description: Creation timestamp interpreted as UTC, with second precision.
+      - name: resolved_at
+        description: UTC resolution timestamp; null means unresolved at the snapshot.
+  - name: stg_customers
+    description: Customer lookup with one current service tier per customer.
+    columns:
+      - name: customer_id
+        description: Unique customer lookup key.
+        data_tests:
+          - not_null
+          - unique
+      - name: service_tier
+        data_tests:
+          - not_null
+          - accepted_values:
+              arguments:
+                values: ['Standard', 'Plus', 'Premium']
+  - name: stg_agents
+    description: Agent lookup with one fixed team per agent.
+    columns:
+      - name: agent_id
+        description: Unique agent lookup key; tickets may have a null agent ID.
+        data_tests:
+          - not_null
+          - unique
+      - name: team
+        data_tests:
+          - not_null
+          - accepted_values:
+              arguments:
+                values: ['Technical', 'Billing', 'Account']
+  - name: stg_service_commitments
+    description: One resolution target per service tier and priority pair.
+    columns:
+      - name: service_tier
+        description: First part of the composite rule key.
+        data_tests:
+          - not_null
+          - accepted_values:
+              arguments:
+                values: ['Standard', 'Plus', 'Premium']
+      - name: priority
+        description: Second part of the composite rule key.
+        data_tests:
+          - not_null
+          - accepted_values:
+              arguments:
+                values: ['Low', 'Medium', 'High', 'Urgent']
+      - name: resolution_target_hours
+        description: Positive elapsed calendar hours allowed for resolution.
+        data_tests:
+          - not_null

@@ -1,0 +1,58 @@
+version: 2
+
+models:
+  - name: team_workload
+    description: One row per team, including Unassigned, describing counts and resolved-ticket performance.
+    columns:
+      - name: team
+        description: Unique report key; null agent IDs contribute to Unassigned.
+        data_tests:
+          - not_null
+          - unique
+      - name: avg_resolution_hours
+        description: Mean resolved duration rounded to two decimals; null if no tickets are resolved.
+      - name: commitment_achievement_pct
+        description: 100 times resolved within commitment divided by resolved tickets; null for a zero denominator.
+
+  - name: resolution_performance
+    description: One row per service tier and priority pair with resolved tickets; open tickets are excluded.
+    columns:
+      - name: service_tier
+        description: First part of the report's composite key.
+        data_tests:
+          - not_null
+      - name: priority
+        description: Second part of the report's composite key.
+        data_tests:
+          - not_null
+      - name: avg_resolution_hours
+        description: Mean elapsed resolution hours rounded to two decimals.
+        data_tests:
+          - not_null
+      - name: commitment_achievement_pct
+        description: Percentage of resolved tickets meeting their commitment, rounded to two decimals.
+        data_tests:
+          - not_null
+
+  - name: open_backlog
+    description: One row per unresolved accepted ticket as of 2026-04-01 00:00:00 UTC.
+    columns:
+      - name: ticket_id
+        description: Unique ticket key in the backlog.
+        data_tests:
+          - not_null
+          - unique
+      - name: open_age_hours
+        data_tests:
+          - not_null
+      - name: resolution_target_hours
+        data_tests:
+          - not_null
+      - name: commitment_status
+        data_tests:
+          - not_null
+          - accepted_values:
+              arguments:
+                values:
+                  - 'Open within deadline'
+                  - 'Open overdue'

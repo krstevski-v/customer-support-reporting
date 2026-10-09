@@ -1,0 +1,13 @@
+service_tier,priority,resolved_tickets,resolved_within_commitment,resolved_late,avg_resolution_hours,commitment_achievement_pct
+Plus,High,154,100.0,54.0,10.41,64.94
+Plus,Low,81,42.0,39.0,70.25,51.85
+Plus,Medium,184,109.0,75.0,22.0,59.24
+Plus,Urgent,49,24.0,25.0,4.22,48.98
+Premium,High,94,59.0,35.0,5.53,62.77
+Premium,Low,59,33.0,26.0,46.18,55.93
+Premium,Medium,135,72.0,63.0,11.63,53.33
+Premium,Urgent,27,17.0,10.0,1.85,62.96
+Standard,High,242,125.0,117.0,23.7,51.65
+Standard,Low,179,101.0,78.0,90.25,56.42
+Standard,Medium,360,204.0,156.0,46.41,56.67
+Standard,Urgent,96,50.0,46.0,7.82,52.08
